@@ -8,4 +8,9 @@ export default {
     <h1 class="bg-warning text-center">La mia prima app con Vite!</h1>
 </template>
 
-<style></style>
+<style>
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+</style>
